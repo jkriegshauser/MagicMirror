@@ -234,6 +234,17 @@ sup {
   text-align: left;
 }
 
+.region.bottom.left1 {
+  left: 0;
+  bottom: 100%;
+}
+
+.region.bottom.right1 {
+  left: 25%;
+  bottom: 100%;
+  width: 75%;
+}
+
 .region table {
   width: 100%;
   border-spacing: 0;
