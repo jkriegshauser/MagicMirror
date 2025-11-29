@@ -15,6 +15,7 @@ planned for 2026-01-01
 
 - [weather] feat: add configurable forecast date format option (#3918)
 - [core] Add new `server:watch` script to run MagicMirror² server-only with automatic restarts when files (defined in `config.watchTargets`) change (#3920)
+- [core] Added additional regions for modules to use
 - [weather] add error handling to fetch functions including cors (#3791)
 - [l10n] Add Portuguese (Portugal & Brazil) translations for alert module, Refine Portuguese (Portugal) translations
 
